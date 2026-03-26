@@ -3,7 +3,8 @@
 
 ✨ Just a girl dedicated to improving, learning, and building new connections. I love languages (programming and natural... hehe) as both serve as means to build something (product or relationship). In my free time, I love to watch movies/shows (kdramas and animation mostly). **Welcome to my Hub** ✨ 
 
-<!-- ![alt text]() -->
+<img src="ogundelee/ogundelee/Esther Ogundele_headshot.jpg" alt="Professional headshot"> 
+
 My highlights:
 
 - 🔭 I’m currently expanding my professional toolbox (UI/UX, JavaScript)
