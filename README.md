@@ -18,4 +18,5 @@ My highlights:
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I've traveled to 25+ cities (mostly by air ✈️)
 - 👩🏽‍🎓 Recent Grad: Fisk University ('Go Bulldogs' 🐶)
+- 🖥️ Website: https://estherogundele.netlify.app
 
